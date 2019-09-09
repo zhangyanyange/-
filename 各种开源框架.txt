@@ -1,0 +1,103 @@
+﻿git 提交流程
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/userName/repoName.git
+git push --force origin master
+
+
+https://code.msdn.microsoft.com/  开发者实例代码
+https://www.cnblogs.com/artech/p/inside-asp-net-core.html  .net core博客文章
+
+http://hukai.me/android-training-course-in-chinese/basics/firstapp/starting-activity.html 视频文档
+dotnet publish videolist -c release -r linux-x64  生成文件
+https://console.cloud.tencent.com/cam/capi  api密钥访问
+https://console.cloud.tencent.com/api/explorer?Product=vod&Version=2018-07-17&Action=DescribeMediaInfos&SignVersion= 在线调试
+https://www.cnblogs.com/farb/p/FirstCodeFirstApp.html   8步掌握ef
+http://www.androiddevtools.cn/   开发工具下载
+http://a.codekk.com/			 开源项目源码分析
+https://github.com/Trinea/android-open-project		Github开源效果搜集
+http://www.23code.com/			 开源效果收集
+http://grepcode.com/			 在线源码查看
+http://androidxref.com/			 源码下载网站
+http://gold.xitu.io				 稀土掘金   专业文章分享平台
+https://toutiao.io/				 开发者头条
+http://www.oschina.net/			 开源中国客户端
+
+https://github.com/WangGanxin/LoadDataLayout  Activity加载四种视图
+
+https://github.com/MegatronKing/SVG-Android
+
+http://www.jianshu.com/p/18c1fc2b8c59  好用的网站
+
+http://tfsserver.oort.cn:8080/tfs/  tfs任务站
+
+https://dribbble.com/
+
+https://github.com/tj/consolidate.js#supported-template-engines //模板引擎
+
+http://p.codekk.com/detail/Android/MindorksOpenSource/android-mvp-architecture mvp-exmaple
+
+https://github.com/QMUI/QMUI_Android  改变全局ui
+
+http://p.codekk.com/detail/Android/MagicMashRoom/SuperShadow  支持阴影
+
+https://github.com/hackware1993/MagicIndicator
+
+https://github.com/Blankj/AndroidUtilCode  Android开发人员不得不收集的代码
+
+http://www.iconfont.cn/collections/index?spm=a313x.7781069.1998910419.d33146d14.9gbs7r&type=3  图标大全
+
+
+https://github.com/FinalTeam/RxGalleryFinal  自定义单选
+
+https://juejin.im/entry/58ea356c44d904006d4c99a8 那些年我们收藏的控件
+
+https://juejin.im/entry/58e5b4a7ac502e4957aa46b6 好看的viewpager
+
+https://juejin.im/entry/58e79c760ce463005854650a  广告
+
+https://chsmy.github.io/  那些年我们收藏的控件（2）
+
+https://github.com/mcxtzhang/AnimShopButton 加载购物车的动画
+
+https://github.com/rengwuxian/MaterialEditText Design模式
+
+https://github.com/glomadrian/material-code-input  验证码效果
+
+http://www.25xt.com/appdesign/12385.html 开发时字体大小规范标准
+
+https://juejin.im/entry/58f196248d6d810057a4bc8e 那些年我们收藏控件(3)
+
+http://www.jianshu.com/p/05cb14b7776d 那些年我们收藏的ui控件
+
+http://www.jianshu.com/p/883ae50a846e 各种各样的图标
+
+https://juejin.im/post/58e4c13cda2f60005fe5083e  popupwindow
+
+https://juejin.im/post/58d1035161ff4b00603ca9c4  瀑布流
+
+https://github.com/Luosunce/material-design-data  MaterialDesign 设计app效果图
+
+http://werb.github.io/2016/09/05/%E5%B9%B2%E8%B4%A7%EF%BC%81%E6%88%91%E5%BC%80%E5%8F%91-Android-%E6%98%AF%E5%A6%82%E4%BD%95%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%9A%84/  干货
+颜色配比
+
+http://gank.io/post/560e15be2dca930e00da1083   RXJava文档
+
+https://gank.io/post/56e80c2c677659311bed9841  RxJava与Retrofit实践
+
+https://mcxiaoke.gitbooks.io/rxdocs/content/operators/From.html RX文档
+
+http://mp.weixin.qq.com/s?__biz=MjM5MjUwMzE2MA==&mid=2680521078&idx=2&sn=0dcdf540059465a89337217b2dc1a0d4&chksm=bc9465618be3ec77d8cca34f4ab30845d82892c7de085a3d3717dd33ea52b415348dbfd31dea&mpshare=1&scene=2&srcid=0116uXP0XyFyHEisY8W5YuNF&from=timeline#rd
+设计规范
+
+http://blog.csdn.net/a1031359915/article/details/21465195 Android打印
+
+http://p.codekk.com/detail/Android/jiang111/IndicatorDialog  选择对话框
+https://segmentfault.com/a/1190000016675252 水平居中竖直居中
+
+
+龙视频 13946950182 zy 13946950182
+
+嘉琪车间 jiaqichejian@163.com  microfeel_2016
